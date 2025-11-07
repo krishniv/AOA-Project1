@@ -4,6 +4,8 @@
 
 - **Divide_Conquer.ipynb**: Main notebook containing the divide and conquer algorithm implementation.
 
+- **Greedy_Approach.ipynb**: Main notebook containing the Greedy algorithm implementation.
+
 - **Prompts.txt**: Contains the prompts used to produce LaTeX and other content.
 
 ## Dataset

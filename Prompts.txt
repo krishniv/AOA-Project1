@@ -5,3 +5,11 @@ Divide and Conquer Prompts Used
 - Generate a python code to sample GC content from FASTA file
 - Publically available Genome dataset which I can use to show effecient clustering
 https://chatgpt.com/share/690d70cd-10e0-8011-8cbf-5bbf1408853a
+
+
+Greedy propmts Used
+- Generate lap times for Soft, Medium, and Hard tires, including degradation over laps.
+- Plot lap time evolution with pit stop markers and total race time comparison using Matplotlib.
+- Show how the greedy algorithm can reduce total race time compared to a fixed strategy.
+- Give me publically available data for f1 pit stops
+-  Optimize the code
