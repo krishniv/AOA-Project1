@@ -1,0 +1,6 @@
+
+Divide and Conquer Prompts Used
+- Used Majorily to fix Latex Issues
+- How can 3 way quick sort perform better than ML clustering methods?
+- Generate a python code to sample GC content from FASTA file
+- Publically available Genome dataset which I can use to show effecient clustering
