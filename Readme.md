@@ -8,7 +8,7 @@
 
 ## Dataset
 
-The dataset used to generate the simulation of the Divide_Conquer algorithm is available at: [https://raeslab.org/companion/gutsequencedb/](http://raeslab.org/companion/gutsequencedb/data/Gastrointestinal_tract.nuc.fsa.gz)
+The dataset used to generate the simulation of the Divide_Conquer algorithm is available at: (http://raeslab.org/companion/gutsequencedb/data/Gastrointestinal_tract.nuc.fsa.gz)
 
 ##Latex Template Used
 https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
